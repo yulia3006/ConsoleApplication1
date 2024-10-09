@@ -39,10 +39,10 @@
       "execution_count": 2,
       "metadata": {
         "id": "xvqpo9yBNKSt",
-        "outputId": "26d5354e-8d3e-4f39-8a70-5c43823ff751",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "outputId": "26d5354e-8d3e-4f39-8a70-5c43823ff751"
       },
       "outputs": [
         {
@@ -72,10 +72,10 @@
       "execution_count": 6,
       "metadata": {
         "id": "aUYh8IGKNKch",
-        "outputId": "e00bcaad-28bb-4037-dc9a-3cce60e4b699",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "outputId": "e00bcaad-28bb-4037-dc9a-3cce60e4b699"
       },
       "outputs": [
         {
@@ -110,10 +110,10 @@
       "execution_count": 7,
       "metadata": {
         "id": "ZGZbH_K0NKkv",
-        "outputId": "29fc968e-47fa-4c52-b94d-eb7713cdd05e",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "outputId": "29fc968e-47fa-4c52-b94d-eb7713cdd05e"
       },
       "outputs": [
         {
@@ -148,10 +148,10 @@
       "execution_count": 10,
       "metadata": {
         "id": "7qkVj041NKn7",
-        "outputId": "45ebf3dd-0bec-4965-ad5a-c311ece7af4a",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "outputId": "45ebf3dd-0bec-4965-ad5a-c311ece7af4a"
       },
       "outputs": [
         {
@@ -185,10 +185,10 @@
       "execution_count": 11,
       "metadata": {
         "id": "C-Dc5mA_NKqa",
-        "outputId": "30f88c86-3cc3-4391-c516-e33f1ba403af",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "outputId": "30f88c86-3cc3-4391-c516-e33f1ba403af"
       },
       "outputs": [
         {
@@ -222,10 +222,10 @@
       "execution_count": 13,
       "metadata": {
         "id": "vVzMMuZbNKsw",
-        "outputId": "7e3be355-c8dc-42ea-d2f0-64a0389d9d9c",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "outputId": "7e3be355-c8dc-42ea-d2f0-64a0389d9d9c"
       },
       "outputs": [
         {
@@ -259,10 +259,10 @@
       "execution_count": 14,
       "metadata": {
         "id": "1AupDub7NKvC",
-        "outputId": "48330d03-f6f7-4360-90c1-fe31e4fc9e78",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "outputId": "48330d03-f6f7-4360-90c1-fe31e4fc9e78"
       },
       "outputs": [
         {
@@ -304,10 +304,10 @@
       "execution_count": 16,
       "metadata": {
         "id": "0di_ZbHDNKxR",
-        "outputId": "bd1326ef-f2f0-4ec6-d821-35746d5d4174",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "outputId": "bd1326ef-f2f0-4ec6-d821-35746d5d4174"
       },
       "outputs": [
         {
@@ -361,10 +361,10 @@
       "execution_count": 17,
       "metadata": {
         "id": "7WbCSlPbNK2C",
-        "outputId": "1d51e254-730c-4e20-cd36-ad8c65ba7147",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "outputId": "1d51e254-730c-4e20-cd36-ad8c65ba7147"
       },
       "outputs": [
         {
@@ -400,10 +400,10 @@
       "execution_count": 20,
       "metadata": {
         "id": "_kjUtd_aNK4d",
-        "outputId": "8a0d176e-9c74-4707-830a-70621eefbdcd",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "outputId": "8a0d176e-9c74-4707-830a-70621eefbdcd"
       },
       "outputs": [
         {
@@ -435,10 +435,10 @@
       "execution_count": 21,
       "metadata": {
         "id": "0qTB-t1yNK61",
-        "outputId": "7f0f6431-542e-442a-cdd0-b8d0bae50bf6",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "outputId": "7f0f6431-542e-442a-cdd0-b8d0bae50bf6"
       },
       "outputs": [
         {
@@ -471,10 +471,10 @@
       "execution_count": 23,
       "metadata": {
         "id": "uW0deEddNK9S",
-        "outputId": "68f536a9-d9d1-4da3-c096-dbcff3483aa6",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "outputId": "68f536a9-d9d1-4da3-c096-dbcff3483aa6"
       },
       "outputs": [
         {
